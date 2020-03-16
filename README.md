@@ -1,2 +1,2 @@
-# epamlabs
+# EPAM Labs
 EPAM Labs
